@@ -20,4 +20,4 @@ pet project
 - Разметка кодом
 - Установка шрифтов
 
-(https://github.com/EdgarIsaev/workout-tracker/blob/main/ScreenShots/sccreen%201.png)
+<img width="427" alt="screen 3" src="https://github.com/EdgarIsaev/workout-tracker/assets/122354907/6ceaab1a-97ec-47c2-a851-8db234ce59d7">
